@@ -1,0 +1,22 @@
+[
+  {
+    "id": "user_admin_01",
+    "username": "admin",
+    "passwordHash": "$2b$10$7Kz9MZ.9CMNDTiOzX7x1eO0UFFjTHbAXlRSg2xS9rZO13316vbChW",
+    "nickname": "蛋仔岛主",
+    "role": "admin",
+    "avatarColor": "#FFD23F",
+    "hat": "crown",
+    "createdAt": "2026-11-15T03:04:37.006Z"
+  },
+  {
+    "id": "user_1794716163727_ulxys",
+    "role": "user",
+    "createdAt": "2026-11-15T04:16:03.727Z",
+    "username": "player_tom",
+    "passwordHash": "$2b$10$OwRATIqAMK4QuuMcz.EjU.wSvWX0eFW9V4q/185gq4eR6UiNW/kLa",
+    "nickname": "?????",
+    "avatarColor": "#FFD23F",
+    "hat": "propeller"
+  }
+]

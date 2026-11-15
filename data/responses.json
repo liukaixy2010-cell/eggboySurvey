@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "resp_01",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "飞天皮蛋",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "propeller"
+    },
+    "timeSpentSeconds": 42,
+    "completedAt": "2026-11-14T15:04:37.009Z",
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 0
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          0,
+          2
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "text",
+        "text": "希望出个重力反转地图！蛋仔可以走到天花板上，超级刺激好玩！",
+        "audioUrl": null
+      },
+      "q4": {
+        "type": "single",
+        "value": 1
+      }
+    }
+  },
+  {
+    "id": "resp_02",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "跳跳粉蛋",
+    "eggCustom": {
+      "color": "#FF6584",
+      "hat": "bunny"
+    },
+    "timeSpentSeconds": 36,
+    "completedAt": "2026-11-14T19:04:37.009Z",
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 1
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          1,
+          2,
+          3
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "voice",
+        "text": "【语音转文字】我想要一个游乐园过山车地图，大家可以抢座位比赛！",
+        "audioUrl": "/audio/demo_voice_1.wav"
+      },
+      "q4": {
+        "type": "single",
+        "value": 0
+      }
+    }
+  },
+  {
+    "id": "resp_03",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "机智绿蛋",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "timeSpentSeconds": 51,
+    "completedAt": "2026-11-15T00:04:37.009Z",
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 2
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          0,
+          1
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "text",
+        "text": "希望能多来点水上漂流赛道和滑梯！",
+        "audioUrl": null
+      },
+      "q4": {
+        "type": "single",
+        "value": 2
+      }
+    }
+  },
+  {
+    "id": "resp_04",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "暴走黑蛋",
+    "eggCustom": {
+      "color": "#333333",
+      "hat": "glasses"
+    },
+    "timeSpentSeconds": 29,
+    "completedAt": "2026-11-15T02:04:37.009Z",
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 1
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          2,
+          4
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "text",
+        "text": "必须支持更多双人合作关卡，和对象一起闯关！",
+        "audioUrl": null
+      },
+      "q4": {
+        "type": "single",
+        "value": 3
+      }
+    }
+  },
+  {
+    "id": "resp_1794712300208_818r2",
+    "completedAt": "2026-11-15T03:11:40.208Z",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "跳跳粉蛋",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "propeller"
+    },
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 3
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          3
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "text",
+        "text": "kkk",
+        "audioUrl": null
+      },
+      "q4": {
+        "type": "single",
+        "value": 2
+      }
+    },
+    "timeSpentSeconds": 49,
+    "device": "web"
+  },
+  {
+    "id": "resp_1794714171168_kfge6",
+    "completedAt": "2026-11-15T03:42:51.168Z",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "暴走小黑",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "propeller"
+    },
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 2
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          2
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "text",
+        "text": "寺",
+        "audioUrl": null
+      },
+      "q4": {
+        "type": "single",
+        "value": 0
+      }
+    },
+    "timeSpentSeconds": 52,
+    "device": "web"
+  },
+  {
+    "id": "resp_1794714297177_8r7uk",
+    "completedAt": "2026-11-15T03:44:57.177Z",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "软萌蓝蛋",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "propeller"
+    },
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 1
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          4
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "voice",
+        "text": "",
+        "audioUrl": "/uploads/audio/voice_1794714276091_n4r779.webm"
+      },
+      "q4": {
+        "type": "single",
+        "value": 0
+      }
+    },
+    "timeSpentSeconds": 66,
+    "device": "web"
+  },
+  {
+    "id": "resp_1794714401193_mztem",
+    "completedAt": "2026-11-15T03:46:41.194Z",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "暴走小黑",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "propeller"
+    },
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 1
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          0,
+          2
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "text",
+        "text": "白的的",
+        "audioUrl": null
+      },
+      "q4": {
+        "type": "single",
+        "value": 3
+      }
+    },
+    "timeSpentSeconds": 49,
+    "device": "web"
+  },
+  {
+    "id": "resp_1794714749414_ppg9f",
+    "completedAt": "2026-11-15T03:52:29.414Z",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "软萌蓝蛋",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "propeller"
+    },
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 0
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          0,
+          1
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "text",
+        "text": "太空重力漂浮乐园",
+        "audioUrl": null
+      },
+      "q4": {
+        "type": "single",
+        "value": 0
+      }
+    },
+    "timeSpentSeconds": 92,
+    "device": "web"
+  },
+  {
+    "id": "resp_1794715008863_yy51x",
+    "completedAt": "2026-11-15T03:56:48.863Z",
+    "surveyId": "survey_1794714877527_w61xo",
+    "playerNickname": "飞天皮蛋",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "propeller"
+    },
+    "answers": {
+      "q_1794714432652": {
+        "type": "single",
+        "value": 1
+      },
+      "q_1794714562272": {
+        "type": "single",
+        "value": 0
+      },
+      "q_1794714595559": {
+        "type": "single",
+        "value": 1
+      },
+      "q_1794714696937": {
+        "type": "multiple",
+        "value": [
+          1
+        ]
+      },
+      "q_1794714805806": {
+        "type": "single",
+        "value": 0
+      }
+    },
+    "timeSpentSeconds": 96,
+    "device": "web"
+  },
+  {
+    "id": "resp_1794715327633_kfpm7",
+    "completedAt": "2026-11-15T04:02:07.633Z",
+    "surveyId": "survey_1794714877527_w61xo",
+    "playerNickname": "跳跳粉蛋",
+    "eggCustom": {
+      "color": "#00E5FF",
+      "hat": "crown"
+    },
+    "answers": {
+      "q_1794714432652": {
+        "type": "single",
+        "value": 1
+      },
+      "q_1794714562272": {
+        "type": "single",
+        "value": 0
+      },
+      "q_1794714595559": {
+        "type": "single",
+        "value": 0
+      },
+      "q_1794714696937": {
+        "type": "multiple",
+        "value": [
+          1
+        ]
+      },
+      "q_1794714805806": {
+        "type": "single",
+        "value": 0
+      }
+    },
+    "timeSpentSeconds": 238,
+    "device": "web"
+  },
+  {
+    "id": "resp_1794715737121_7k300",
+    "completedAt": "2026-11-15T04:08:57.121Z",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "暴走小黑",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "propeller"
+    },
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 2
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          3,
+          4
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "text",
+        "text": "地方都说的",
+        "audioUrl": null
+      },
+      "q4": {
+        "type": "single",
+        "value": 2
+      }
+    },
+    "timeSpentSeconds": 32,
+    "device": "web"
+  },
+  {
+    "id": "resp_survey_demo_food_0",
+    "surveyId": "survey_demo_food",
+    "playerNickname": "派对蛋_100",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 15,
+    "completedAt": "2026-11-15T03:23:19.214Z"
+  },
+  {
+    "id": "resp_survey_demo_food_1",
+    "surveyId": "survey_demo_food",
+    "playerNickname": "派对蛋_101",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 17,
+    "completedAt": "2026-11-15T02:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_food_2",
+    "surveyId": "survey_demo_food",
+    "playerNickname": "派对蛋_102",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 19,
+    "completedAt": "2026-11-15T01:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_food_3",
+    "surveyId": "survey_demo_food",
+    "playerNickname": "派对蛋_103",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 21,
+    "completedAt": "2026-11-15T00:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_food_4",
+    "surveyId": "survey_demo_food",
+    "playerNickname": "派对蛋_104",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 23,
+    "completedAt": "2026-11-14T23:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_food_5",
+    "surveyId": "survey_demo_food",
+    "playerNickname": "派对蛋_105",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 25,
+    "completedAt": "2026-11-14T22:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_fish_0",
+    "surveyId": "survey_demo_fish",
+    "playerNickname": "派对蛋_100",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 15,
+    "completedAt": "2026-11-15T03:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_fish_1",
+    "surveyId": "survey_demo_fish",
+    "playerNickname": "派对蛋_101",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 17,
+    "completedAt": "2026-11-15T02:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_fish_2",
+    "surveyId": "survey_demo_fish",
+    "playerNickname": "派对蛋_102",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 19,
+    "completedAt": "2026-11-15T01:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_fish_3",
+    "surveyId": "survey_demo_fish",
+    "playerNickname": "派对蛋_103",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 21,
+    "completedAt": "2026-11-15T00:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_digi_0",
+    "surveyId": "survey_demo_digi",
+    "playerNickname": "派对蛋_100",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 15,
+    "completedAt": "2026-11-15T03:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_digi_1",
+    "surveyId": "survey_demo_digi",
+    "playerNickname": "派对蛋_101",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 17,
+    "completedAt": "2026-11-15T02:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_digi_2",
+    "surveyId": "survey_demo_digi",
+    "playerNickname": "派对蛋_102",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 19,
+    "completedAt": "2026-11-15T01:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_trip_0",
+    "surveyId": "survey_demo_trip",
+    "playerNickname": "派对蛋_100",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 15,
+    "completedAt": "2026-11-15T03:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_trip_1",
+    "surveyId": "survey_demo_trip",
+    "playerNickname": "派对蛋_101",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 17,
+    "completedAt": "2026-11-15T02:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_trip_2",
+    "surveyId": "survey_demo_trip",
+    "playerNickname": "派对蛋_102",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 19,
+    "completedAt": "2026-11-15T01:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_trip_3",
+    "surveyId": "survey_demo_trip",
+    "playerNickname": "派对蛋_103",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 21,
+    "completedAt": "2026-11-15T00:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_trip_4",
+    "surveyId": "survey_demo_trip",
+    "playerNickname": "派对蛋_104",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 23,
+    "completedAt": "2026-11-14T23:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_trip_5",
+    "surveyId": "survey_demo_trip",
+    "playerNickname": "派对蛋_105",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 25,
+    "completedAt": "2026-11-14T22:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_trip_6",
+    "surveyId": "survey_demo_trip",
+    "playerNickname": "派对蛋_106",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 27,
+    "completedAt": "2026-11-14T21:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_trip_7",
+    "surveyId": "survey_demo_trip",
+    "playerNickname": "派对蛋_107",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 29,
+    "completedAt": "2026-11-14T20:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_anime_0",
+    "surveyId": "survey_demo_anime",
+    "playerNickname": "派对蛋_100",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 15,
+    "completedAt": "2026-11-15T03:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_anime_1",
+    "surveyId": "survey_demo_anime",
+    "playerNickname": "派对蛋_101",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 17,
+    "completedAt": "2026-11-15T02:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_anime_2",
+    "surveyId": "survey_demo_anime",
+    "playerNickname": "派对蛋_102",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 19,
+    "completedAt": "2026-11-15T01:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_anime_3",
+    "surveyId": "survey_demo_anime",
+    "playerNickname": "派对蛋_103",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 21,
+    "completedAt": "2026-11-15T00:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_anime_4",
+    "surveyId": "survey_demo_anime",
+    "playerNickname": "派对蛋_104",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 23,
+    "completedAt": "2026-11-14T23:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_anime_5",
+    "surveyId": "survey_demo_anime",
+    "playerNickname": "派对蛋_105",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 25,
+    "completedAt": "2026-11-14T22:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_anime_6",
+    "surveyId": "survey_demo_anime",
+    "playerNickname": "派对蛋_106",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 27,
+    "completedAt": "2026-11-14T21:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_anime_7",
+    "surveyId": "survey_demo_anime",
+    "playerNickname": "派对蛋_107",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 29,
+    "completedAt": "2026-11-14T20:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_ai_0",
+    "surveyId": "survey_demo_ai",
+    "playerNickname": "派对蛋_100",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 15,
+    "completedAt": "2026-11-15T03:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_ai_1",
+    "surveyId": "survey_demo_ai",
+    "playerNickname": "派对蛋_101",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 17,
+    "completedAt": "2026-11-15T02:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_ai_2",
+    "surveyId": "survey_demo_ai",
+    "playerNickname": "派对蛋_102",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 19,
+    "completedAt": "2026-11-15T01:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_ai_3",
+    "surveyId": "survey_demo_ai",
+    "playerNickname": "派对蛋_103",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 21,
+    "completedAt": "2026-11-15T00:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_ai_4",
+    "surveyId": "survey_demo_ai",
+    "playerNickname": "派对蛋_104",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 23,
+    "completedAt": "2026-11-14T23:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_ai_5",
+    "surveyId": "survey_demo_ai",
+    "playerNickname": "派对蛋_105",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 25,
+    "completedAt": "2026-11-14T22:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_song_0",
+    "surveyId": "survey_demo_song",
+    "playerNickname": "派对蛋_100",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 15,
+    "completedAt": "2026-11-15T03:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_song_1",
+    "surveyId": "survey_demo_song",
+    "playerNickname": "派对蛋_101",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 17,
+    "completedAt": "2026-11-15T02:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_song_2",
+    "surveyId": "survey_demo_song",
+    "playerNickname": "派对蛋_102",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 19,
+    "completedAt": "2026-11-15T01:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_song_3",
+    "surveyId": "survey_demo_song",
+    "playerNickname": "派对蛋_103",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 21,
+    "completedAt": "2026-11-15T00:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_pet_0",
+    "surveyId": "survey_demo_pet",
+    "playerNickname": "派对蛋_100",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 15,
+    "completedAt": "2026-11-15T03:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_pet_1",
+    "surveyId": "survey_demo_pet",
+    "playerNickname": "派对蛋_101",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 17,
+    "completedAt": "2026-11-15T02:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_pet_2",
+    "surveyId": "survey_demo_pet",
+    "playerNickname": "派对蛋_102",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 19,
+    "completedAt": "2026-11-15T01:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_pet_3",
+    "surveyId": "survey_demo_pet",
+    "playerNickname": "派对蛋_103",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 21,
+    "completedAt": "2026-11-15T00:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_pet_4",
+    "surveyId": "survey_demo_pet",
+    "playerNickname": "派对蛋_104",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 23,
+    "completedAt": "2026-11-14T23:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_pet_5",
+    "surveyId": "survey_demo_pet",
+    "playerNickname": "派对蛋_105",
+    "eggCustom": {
+      "color": "#FF5376",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 25,
+    "completedAt": "2026-11-14T22:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_pet_6",
+    "surveyId": "survey_demo_pet",
+    "playerNickname": "派对蛋_106",
+    "eggCustom": {
+      "color": "#70D6FF",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 27,
+    "completedAt": "2026-11-14T21:23:19.215Z"
+  },
+  {
+    "id": "resp_survey_demo_pet_7",
+    "surveyId": "survey_demo_pet",
+    "playerNickname": "派对蛋_107",
+    "eggCustom": {
+      "color": "#00E676",
+      "hat": "crown"
+    },
+    "answers": {},
+    "timeSpentSeconds": 29,
+    "completedAt": "2026-11-14T20:23:19.215Z"
+  },
+  {
+    "id": "resp_1794716809221_tp0ye",
+    "completedAt": "2026-11-15T04:26:49.221Z",
+    "surveyId": "survey_demo_food",
+    "playerNickname": "跳跳粉蛋",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "bunny"
+    },
+    "answers": {
+      "q_f1": {
+        "type": "single",
+        "value": 0
+      },
+      "q_f2": {
+        "type": "multiple",
+        "value": [
+          0
+        ]
+      },
+      "q_f3": {
+        "type": "open_ended",
+        "mode": "voice",
+        "text": "",
+        "audioUrl": "/uploads/audio/voice_1794716806188_t86nta.webm"
+      }
+    },
+    "timeSpentSeconds": 92,
+    "device": "web"
+  },
+  {
+    "id": "resp_1794722095662_8kdr1",
+    "completedAt": "2026-11-15T05:54:55.662Z",
+    "surveyId": "survey_demo_01",
+    "playerNickname": "软萌蓝蛋",
+    "eggCustom": {
+      "color": "#FFD23F",
+      "hat": "propeller"
+    },
+    "answers": {
+      "q1": {
+        "type": "single",
+        "value": 3
+      },
+      "q2": {
+        "type": "multiple",
+        "value": [
+          3
+        ]
+      },
+      "q3": {
+        "type": "open_ended",
+        "mode": "text",
+        "text": "大厦",
+        "audioUrl": null
+      },
+      "q4": {
+        "type": "single",
+        "value": 3
+      }
+    },
+    "timeSpentSeconds": 4871,
+    "device": "web"
+  }
+]

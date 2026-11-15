@@ -1,0 +1,468 @@
+[
+  {
+    "id": "survey_demo_01",
+    "shareCode": "EGG888",
+    "userId": "user_admin_01",
+    "title": "蛋仔派对：新赛季狂欢大调研 🐣✨",
+    "description": "操控你的专属萌趣蛋仔，奔跑跳跃闯过一道道关卡，留下你最珍贵的派对建议与声音吧！",
+    "theme": "candy",
+    "published": true,
+    "createdAt": "2026-11-13T03:04:37.009Z",
+    "updatedAt": "2026-11-15T03:04:37.009Z",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "single",
+        "title": "在蛋仔岛闲逛时，你最喜欢打卡哪个游乐设施？🎡",
+        "obstacleType": "trampoline",
+        "options": [
+          "摩天轮高空看日落 🌇",
+          "巨型蹦床飞天挑战 🤸",
+          "和小伙伴叠高高拍照 🐣",
+          "投石机把别人弹飞 🚀"
+        ]
+      },
+      {
+        "id": "q2",
+        "type": "multiple",
+        "title": "在决胜关巅峰赛中，你最喜欢拾取哪些决战技道具？（多选）⚡",
+        "obstacleType": "spinner",
+        "options": [
+          "巨大化变身霸气碾压 🦖",
+          "无敌金钟罩护体 🛡️",
+          "弹簧钩锁极速追击 🪢",
+          "快乐雪球大冰冻 ❄️",
+          "隐身魔药暗中偷袭 👻"
+        ]
+      },
+      {
+        "id": "q3",
+        "type": "open_ended",
+        "title": "你最希望下一季蛋仔乐园推出什么趣味新地图？（可以打字，更欢迎按住语音麦克风直接说哦！）🎤",
+        "obstacleType": "mic_stage",
+        "allowVoice": true,
+        "allowText": true
+      },
+      {
+        "id": "q4",
+        "type": "single",
+        "title": "如果推出蛋仔专属联名外观，你最期待哪种风格？🎨",
+        "obstacleType": "rainbow",
+        "options": [
+          "国风神话机甲风 🐉",
+          "甜点烘焙软萌风 🍰",
+          "深海发光水母风 🪼",
+          "复古像素电玩风 👾"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "survey_1794714877527_w61xo",
+    "shareCode": "LMUZLG",
+    "published": true,
+    "createdAt": "2026-11-15T03:54:37.527Z",
+    "updatedAt": "2026-11-15T03:55:05.481Z",
+    "userId": "user_admin_01",
+    "title": "你平时玩电子游戏吗",
+    "description": "本次问卷调查平时玩电子游戏的情况，匿名调查，不会保存你的真实信息，请放心闯关。",
+    "questions": [
+      {
+        "id": "q_1794714432652",
+        "type": "single",
+        "title": "你读几年级",
+        "obstacleType": "trampoline",
+        "options": [
+          "小学一二三年级",
+          "小学四五六年级",
+          "初中",
+          "新高中"
+        ]
+      },
+      {
+        "id": "q_1794714562272",
+        "type": "single",
+        "title": "你是男生还是女生",
+        "obstacleType": "trampoline",
+        "options": [
+          "女生",
+          "男生"
+        ]
+      },
+      {
+        "id": "q_1794714595559",
+        "type": "single",
+        "title": "你每天玩几个小时的电子游戏",
+        "obstacleType": "trampoline",
+        "options": [
+          "根本不让玩",
+          "只有周末玩二小时",
+          "每天都可以玩，但限制了时间",
+          "自由玩"
+        ]
+      },
+      {
+        "id": "q_1794714696937",
+        "type": "multiple",
+        "title": "你玩游戏的平台是什么",
+        "obstacleType": "trampoline",
+        "options": [
+          "手机上的游戏",
+          "switch",
+          "ps",
+          "电脑"
+        ]
+      },
+      {
+        "id": "q_1794714805806",
+        "type": "single",
+        "title": "玩游戏花钱吗",
+        "obstacleType": "trampoline",
+        "options": [
+          "玩游戏不花钱",
+          "花过一点钱，100元以内吧",
+          "当然花钱，花钱比较多，就是为了玩游戏"
+        ]
+      }
+    ],
+    "theme": "sky"
+  },
+  {
+    "id": "survey_demo_food",
+    "shareCode": "FOOD01",
+    "userId": "user_admin_01",
+    "title": "蛋仔岛美食偏好调查：炸鸡还是波霸奶茶？🍔🧋",
+    "description": "深夜放毒时间到！快来投出你心中最无法抗拒的派对夜宵之王！",
+    "theme": "candy",
+    "published": true,
+    "createdAt": "2026-11-15T02:30:00.000Z",
+    "updatedAt": "2026-11-15T02:30:00.000Z",
+    "questions": [
+      {
+        "id": "q_f1",
+        "type": "single",
+        "title": "深夜追剧打游戏时，你最想点的夜宵是？🍟",
+        "obstacleType": "trampoline",
+        "options": [
+          "香酥黄金炸鸡配可乐 🍗",
+          "超大杯黑糖波霸奶茶 🧋",
+          "麻辣鲜香小龙虾 🦞",
+          "热气腾腾骨汤拉面 🍜"
+        ]
+      },
+      {
+        "id": "q_f2",
+        "type": "multiple",
+        "title": "喝奶茶时你必加哪些灵魂小料？（多选）🧋",
+        "obstacleType": "spinner",
+        "options": [
+          "Q弹黑糖波霸",
+          "生椰冻/布丁",
+          "多肉葡萄晶球",
+          "浓郁芝士奶盖",
+          "无料纯茶主义"
+        ]
+      },
+      {
+        "id": "q_f3",
+        "type": "open_ended",
+        "title": "你吃过最惊艳或最奇葩的一道地方特色美食是什么？（支持语音录音哦！）🎤",
+        "obstacleType": "mic_stage",
+        "allowVoice": true,
+        "allowText": true
+      }
+    ]
+  },
+  {
+    "id": "survey_demo_fish",
+    "shareCode": "FISH02",
+    "userId": "user_admin_01",
+    "title": "当代青年与打工人日常摸鱼与解压调查 🐟💻",
+    "description": "工位坐久了？来跑跑酷答个问卷，看看谁才是蛋仔岛摸鱼宗师！",
+    "theme": "sky",
+    "published": true,
+    "createdAt": "2026-11-15T02:15:00.000Z",
+    "updatedAt": "2026-11-15T02:15:00.000Z",
+    "questions": [
+      {
+        "id": "q_fish1",
+        "type": "single",
+        "title": "你在工作或学习间隙最常用的摸鱼方式是？👀",
+        "obstacleType": "trampoline",
+        "options": [
+          "刷短视频/社交媒体 📱",
+          "戴耳机听播客/听歌 🎧",
+          "假装接水在走廊漫步 🚶",
+          "逛购物软件加购物车 🛒"
+        ]
+      },
+      {
+        "id": "q_fish2",
+        "type": "multiple",
+        "title": "当感到压力山大时，哪些方式能最快让你回血？（多选）⚡",
+        "obstacleType": "spinner",
+        "options": [
+          "狠狠大睡一觉 😴",
+          "约好友吃顿大餐 🍲",
+          "玩两把解压闯关游戏 🎮",
+          "户外散步吹晚风 🍃"
+        ]
+      },
+      {
+        "id": "q_fish3",
+        "type": "open_ended",
+        "title": "用一句话或语音分享你最近最开心的一个小瞬间！🎉",
+        "obstacleType": "mic_stage",
+        "allowVoice": true,
+        "allowText": true
+      }
+    ]
+  },
+  {
+    "id": "survey_demo_digi",
+    "shareCode": "DIGI03",
+    "userId": "user_admin_01",
+    "title": "数码极客大调查：你的主力装备与下一款心愿 📱⌚",
+    "description": "从手机、平板到降噪耳机与智能手表，快来测测你的数码极客属性！",
+    "theme": "cyber",
+    "published": true,
+    "createdAt": "2026-11-15T01:50:00.000Z",
+    "updatedAt": "2026-11-15T01:50:00.000Z",
+    "questions": [
+      {
+        "id": "q_d1",
+        "type": "single",
+        "title": "你目前日常使用的主力手机操作系统是？🍏🤖",
+        "obstacleType": "trampoline",
+        "options": [
+          "iOS (苹果) 🍎",
+          "Android (安卓各家系统) 🤖",
+          "双持两台手机 📱📱",
+          "功能机/复古小手机 📟"
+        ]
+      },
+      {
+        "id": "q_d2",
+        "type": "multiple",
+        "title": "出门随身必带的数码配件有哪些？（多选）🔋",
+        "obstacleType": "spinner",
+        "options": [
+          "真无线主动降噪耳机 🎧",
+          "大容量快充充电宝 ⚡",
+          "智能运动手表/手环 ⌚",
+          "便携掌机/电子书 🕹️"
+        ]
+      },
+      {
+        "id": "q_d3",
+        "type": "open_ended",
+        "title": "你最期待未来的消费电子产品实现什么黑科技？🎤",
+        "obstacleType": "mic_stage",
+        "allowVoice": true,
+        "allowText": true
+      }
+    ]
+  },
+  {
+    "id": "survey_demo_trip",
+    "shareCode": "TRIP04",
+    "userId": "user_admin_01",
+    "title": "周末去哪儿：户外露营与自驾旅行搭子偏好问卷 🏕️🚗",
+    "description": "逃离城市钢筋水泥，拥抱山川湖海！测测你的最佳旅行人格！",
+    "theme": "candy",
+    "published": true,
+    "createdAt": "2026-11-14T22:30:00.000Z",
+    "updatedAt": "2026-11-14T22:30:00.000Z",
+    "questions": [
+      {
+        "id": "q_t1",
+        "type": "single",
+        "title": "遇到3天小长假，你更倾向于哪种出行方式？✈️",
+        "obstacleType": "trampoline",
+        "options": [
+          "奔赴山野精致露营烧烤 ⛺",
+          "海岛度假沙滩看日落 🏖️",
+          "城市Citywalk探索宝藏小馆 ☕",
+          "宅家躺平拒绝人挤人 🛋️"
+        ]
+      },
+      {
+        "id": "q_t2",
+        "type": "single",
+        "title": "你更喜欢怎样的旅行搭子性格？🤝",
+        "obstacleType": "rainbow",
+        "options": [
+          "攻略达人包办一切行程 📋",
+          "随遇而安性格极好的拍照搭子 📸",
+          "情绪稳定不抱怨的幽默选手 😂",
+          "独自一人背上包说走就走 🎒"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "survey_demo_anime",
+    "shareCode": "ANIME5",
+    "userId": "user_admin_01",
+    "title": "你心中的二次元与经典神作动漫喜好调研 🎬🍿",
+    "description": "热血、治愈、悬疑还是科幻？快来认领你的本命二次元神作！",
+    "theme": "sky",
+    "published": true,
+    "createdAt": "2026-11-14T19:00:00.000Z",
+    "updatedAt": "2026-11-14T19:00:00.000Z",
+    "questions": [
+      {
+        "id": "q_a1",
+        "type": "single",
+        "title": "你更偏爱哪种题材风格的动漫或影视作品？🌟",
+        "obstacleType": "trampoline",
+        "options": [
+          "热血王道成长冒险 ⚔️",
+          "轻松搞笑日常番 😹",
+          "烧脑悬疑反转智斗 🧠",
+          "治愈系奇幻温情 🌸"
+        ]
+      },
+      {
+        "id": "q_a2",
+        "type": "multiple",
+        "title": "哪些二次元元素最能戳中你的心？（多选）✨",
+        "obstacleType": "spinner",
+        "options": [
+          "高燃神级配乐/OST 🎵",
+          "顶级流畅打斗作画 💥",
+          "深刻的角色情感羁绊 🤝",
+          "意难平的悲剧美学 🌧️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "survey_demo_ai",
+    "shareCode": "AITECH",
+    "userId": "user_admin_01",
+    "title": "AI 改变生活：人工智能工具日常使用大调查 🤖⚡",
+    "description": "大模型时代，你用 AI 写代码、做PPT还是聊天解闷？快来畅所欲言！",
+    "theme": "cyber",
+    "published": true,
+    "createdAt": "2026-11-14T15:20:00.000Z",
+    "updatedAt": "2026-11-14T15:20:00.000Z",
+    "questions": [
+      {
+        "id": "q_ai1",
+        "type": "single",
+        "title": "你日常使用 AI 工具的频率如何？💻",
+        "obstacleType": "trampoline",
+        "options": [
+          "重度依赖，每天都在用 🚀",
+          "每周用几次辅助工作或学习 📈",
+          "偶尔好奇尝鲜玩玩 🔍",
+          "几乎不用 🙅‍♂️"
+        ]
+      },
+      {
+        "id": "q_ai2",
+        "type": "multiple",
+        "title": "你最常用 AI 帮你完成哪些任务？（多选）🛠️",
+        "obstacleType": "spinner",
+        "options": [
+          "编写与审查代码 💻",
+          "翻译外语与提炼长文 📚",
+          "撰写文案与头脑风暴 💡",
+          "生成插画与修图 🎨",
+          "情感倾诉与日常闲聊 💬"
+        ]
+      },
+      {
+        "id": "q_ai3",
+        "type": "open_ended",
+        "title": "你觉得未来五年 AI 会最先彻底改变哪个行业？说说你的看法！🎤",
+        "obstacleType": "mic_stage",
+        "allowVoice": true,
+        "allowText": true
+      }
+    ]
+  },
+  {
+    "id": "survey_demo_song",
+    "shareCode": "SONG07",
+    "userId": "user_admin_01",
+    "title": "音乐节与现场演出狂欢体验调查 🎸🎤",
+    "description": "蹦迪、大合唱、跳水挥舞荧光棒！测测你的音乐现场狂热指数！",
+    "theme": "candy",
+    "published": true,
+    "createdAt": "2026-11-14T12:00:00.000Z",
+    "updatedAt": "2026-11-14T12:00:00.000Z",
+    "questions": [
+      {
+        "id": "q_s1",
+        "type": "single",
+        "title": "你更偏爱去哪种现场听音乐？🎧",
+        "obstacleType": "trampoline",
+        "options": [
+          "草地大舞台户外音乐节 🏕️",
+          "万人体育场盛大演唱会 🏟️",
+          "近距离互动的Livehouse 🎸",
+          "高雅古典剧院音乐厅 🎻"
+        ]
+      },
+      {
+        "id": "q_s2",
+        "type": "single",
+        "title": "在现场演出中最让你沉醉上头的是？🎶",
+        "obstacleType": "rainbow",
+        "options": [
+          "全场千人万人齐声大合唱 🗣️",
+          "贝斯和鼓点直击胸膛的震撼低音 🥁",
+          "绚丽耀眼的舞台灯光舞美 🌈",
+          "看到偶像歌手真人的那一瞬 🥺"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "survey_demo_pet",
+    "shareCode": "PET888",
+    "userId": "user_admin_01",
+    "title": "宠物星人治愈图鉴：吸猫撸狗快乐大调查 🐱🐶",
+    "description": "毛孩子就是治愈一切不开心的天使！晒晒你的萌宠日常！",
+    "theme": "sky",
+    "published": true,
+    "createdAt": "2026-11-14T09:00:00.000Z",
+    "updatedAt": "2026-11-14T09:00:00.000Z",
+    "questions": [
+      {
+        "id": "q_p1",
+        "type": "single",
+        "title": "你是忠实的猫派还是狗派？🐾",
+        "obstacleType": "trampoline",
+        "options": [
+          "高冷傲娇的猫星人派 🐱",
+          "热情粘人的汪星人派 🐶",
+          "两样全要双全其美 🐈‍⬛🐕",
+          "云养宠云吸毛孩子党 💻"
+        ]
+      },
+      {
+        "id": "q_p2",
+        "type": "multiple",
+        "title": "你觉得宠物给你带来的最大幸福是什么？（多选）💖",
+        "obstacleType": "spinner",
+        "options": [
+          "下班开门它热烈迎接的瞬间 🚪",
+          "疲惫时靠在怀里的温暖呼噜声 💤",
+          "无条件的陪伴与信任 🤝",
+          "滑稽搞笑的行为让人开怀大笑 😹"
+        ]
+      },
+      {
+        "id": "q_p3",
+        "type": "open_ended",
+        "title": "用文字或语音录音，讲一件你的萌宠最让你暖心或哭笑不得的趣事！🎤",
+        "obstacleType": "mic_stage",
+        "allowVoice": true,
+        "allowText": true
+      }
+    ]
+  }
+]
