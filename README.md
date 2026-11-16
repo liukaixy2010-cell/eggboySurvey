@@ -2,6 +2,14 @@
 
 > 把枯燥的问卷，变成超解压的蛋仔闯关游戏！
 
+---
+## 🌐 在线试用 DEMO
+
+**试用网址：** https://eggboysurvey-production.up.railway.app/
+
+> 说明：这是一个试用网址，部署在 Railway 试用环境上，仅供体验试用，数据可能随时重置，服务也可能随试用额度结束而下线。
+---
+>
 ![蛋仔问卷首页](screenshots/homepage.png)
 
 ## 📖 项目介绍
