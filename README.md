@@ -56,8 +56,6 @@ npm install
 node server.js
 ```
 
-浏览器打开：http://localhost:3000
-
 ## 📁 项目结构
 
 ```
