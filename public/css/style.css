@@ -1,5 +1,5 @@
 /* =================================================================
-   蛋仔派对风《蛋仔问卷》核心样式表 (Egg Party Survey Theme)
+   《蛋仔问卷》核心样式表 (Egg Party Survey Theme)
    ================================================================= */
 
 :root {
@@ -671,7 +671,7 @@ body.in-game-mode {
   .mobile-jump-btn { display: flex; }
 }
 
-/* --- Level Question Modal (蛋仔派对 冲关答题弹窗) --- */
+/* --- Level Question Modal ( 冲关答题弹窗) --- */
 .question-modal-backdrop {
   position: absolute;
   top: 0;
