@@ -82,7 +82,7 @@ function initDb() {
       id: defaultSurveyId,
       shareCode: 'EGG888',
       userId: 'user_admin_01',
-      title: '蛋仔派对：新赛季狂欢大调研 🐣✨',
+      title: '新赛季狂欢大调研 🐣✨',
       description: '操控你的专属萌趣蛋仔，奔跑跳跃闯过一道道关卡，留下你最珍贵的派对建议与声音吧！',
       theme: 'candy', // candy, cyber, sky, sunset
       published: true,
