@@ -7,7 +7,7 @@
   const translations = {
     'zh-CN': {
       app: {
-        title: '蛋仔问卷 - 蛋仔派对风趣味闯关问卷系统 🐣✨',
+        title: '蛋仔问卷 - 趣味闯关问卷系统 🐣✨',
         brandName: '蛋仔问卷',
         brandBadge: '蛋仔闯关派对版',
         bgmOn: '🎵 BGM: 开',
@@ -55,7 +55,7 @@
       auth: {
         loginTitle: '欢迎回到蛋仔岛：登录',
         loginDesc: '登录以管理你的问卷关卡与查看回答统计',
-        registerTitle: '加入蛋仔派对：注册账号',
+        registerTitle: '注册账号',
         registerDesc: '注册专属蛋仔创作者账号，打造你的游戏问卷',
         username: '用户名',
         usernamePlaceholder: '输入用户名 (如 heelo)',
@@ -152,7 +152,7 @@
         btnBackHome: '🏠 返回蛋仔问卷首页'
       },
       share: {
-        modalTitle: '🐣 蛋仔派对 闯关问卷转发卡',
+        modalTitle: '🐣  闯关问卷转发卡',
         shareCodeLabel: '专属闯关码：',
         playUrlLabel: '直接闯关网址',
         btnCopyLink: '📋 复制链接',
@@ -220,7 +220,7 @@
 
     'zh-TW': {
       app: {
-        title: '蛋仔問卷 - 蛋仔派對風趣味闖關問卷系統 🐣✨',
+        title: '蛋仔問卷 - 趣味闖關問卷系統 🐣✨',
         brandName: '蛋仔問卷',
         brandBadge: '蛋仔闖關派對版',
         bgmOn: '🎵 BGM: 開',
@@ -268,7 +268,7 @@
       auth: {
         loginTitle: '歡迎回到蛋仔島：登入',
         loginDesc: '登入以管理你的問卷關卡與查看回答統計',
-        registerTitle: '加入蛋仔派對：註冊帳號',
+        registerTitle: '註冊帳號',
         registerDesc: '註冊專屬蛋仔創作者帳號，打造你的遊戲問卷',
         username: '使用者名稱',
         usernamePlaceholder: '輸入使用者名稱 (如 hello)',
@@ -365,7 +365,7 @@
         btnBackHome: '🏠 返回蛋仔問卷首頁'
       },
       share: {
-        modalTitle: '🐣 蛋仔派對 闖關問卷轉發卡',
+        modalTitle: '🐣  闖關問卷轉發卡',
         shareCodeLabel: '專屬闖關碼：',
         playUrlLabel: '直接闖關網址',
         btnCopyLink: '📋 複製連結',
