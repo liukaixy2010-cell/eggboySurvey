@@ -28,7 +28,7 @@
         btnNewSurvey: '➕ 新建问卷',
         btnLoginToManage: '🔑 登录管理问卷',
         guestBannerTitle: '免登录点击即玩！以下为岛民们最新发布的趣味闯关问卷 🎮',
-        guestBannerDesc: '每一个问卷都是一个 3D 跑酷赛道，支持单选/多选/打字/语音。登录后即可制作并管理专属问卷（默认管理员：admin / 密码：123456）',
+        guestBannerDesc: '每一个问卷都是一个 3D 跑酷赛道，支持单选/多选/打字/语音。登录后即可制作并管理专属问卷',
         btnGuestLogin: '🔑 立即登录 / 注册',
         btnGuestTryDemo: '🚀 试玩官方示范关',
         emptySurveys: '暂无问卷，快来创建你的第一个蛋仔闯关赛道吧！',
@@ -58,9 +58,9 @@
         registerTitle: '加入蛋仔派对：注册账号',
         registerDesc: '注册专属蛋仔创作者账号，打造你的游戏问卷',
         username: '用户名',
-        usernamePlaceholder: '输入用户名 (如 admin)',
+        usernamePlaceholder: '输入用户名 (如 heelo)',
         password: '密码',
-        passwordPlaceholder: '输入密码 (如 123456)',
+        passwordPlaceholder: '输入密码 (如 78788887)',
         nickname: '蛋仔昵称',
         nicknamePlaceholder: '例如：飞天小甜蛋',
         btnSubmitLogin: '🚀 立即登录',
@@ -70,7 +70,7 @@
         loginSuccess: '登录成功！欢迎回来，{name}！🐣',
         registerSuccess: '注册成功！已自动为你登录。',
         requireFields: '用户名和密码不能为空',
-        adminHint: '💡 提示：默认内置管理员账号 admin，密码 123456'
+        adminHint: '💡 提示：默认内置管理员账号'
       },
       editor: {
         pageTitleNew: '✨ 创建全新蛋仔闯关问卷',
@@ -241,7 +241,7 @@
         btnNewSurvey: '➕ 新建問卷',
         btnLoginToManage: '🔑 登入管理問卷',
         guestBannerTitle: '免登入點擊即玩！以下為島民們最新發布的趣味闖關問卷 🎮',
-        guestBannerDesc: '每一個問卷都是一個 3D 跑酷賽道，支援單選/多選/打字/語音。登入後即可製作並管理專屬問卷（預設管理員：admin / 密碼：123456）',
+        guestBannerDesc: '每一個問卷都是一個 3D 跑酷賽道，支援單選/多選/打字/語音。登入後即可製作並管理專屬問卷）',
         btnGuestLogin: '🔑 立即登入 / 註冊',
         btnGuestTryDemo: '🚀 試玩官方示範關',
         emptySurveys: '暫無問卷，快來建立你的第一個蛋仔闖關賽道吧！',
@@ -271,9 +271,9 @@
         registerTitle: '加入蛋仔派對：註冊帳號',
         registerDesc: '註冊專屬蛋仔創作者帳號，打造你的遊戲問卷',
         username: '使用者名稱',
-        usernamePlaceholder: '輸入使用者名稱 (如 admin)',
+        usernamePlaceholder: '輸入使用者名稱 (如 hello)',
         password: '密碼',
-        passwordPlaceholder: '輸入密碼 (如 123456)',
+        passwordPlaceholder: '輸入密碼 (如 4545433)',
         nickname: '蛋仔暱稱',
         nicknamePlaceholder: '例如：飛天小甜蛋',
         btnSubmitLogin: '🚀 立即登入',
@@ -283,7 +283,7 @@
         loginSuccess: '登入成功！歡迎回來，{name}！🐣',
         registerSuccess: '註冊成功！已自動為你登入。',
         requireFields: '使用者名稱和密碼不能為空',
-        adminHint: '💡 提示：預設內建管理員帳號 admin，密碼 123456'
+        adminHint: '💡 提示：預設內建管理員'
       },
       editor: {
         pageTitleNew: '✨ 建立全新蛋仔闖關問卷',
@@ -454,7 +454,7 @@
         btnNewSurvey: '➕ 新規作成',
         btnLoginToManage: '🔑 ログインして管理',
         guestBannerTitle: 'ログイン不要ですぐ遊べる！最新公開アンケートコース 🎮',
-        guestBannerDesc: '各アンケートは3Dアスレチックコースです。ログインすれば自分だけのアンケートレースを作成・管理できます（初期管理者：admin / パスワード：123456）',
+        guestBannerDesc: '各アンケートは3Dアスレチックコースです。ログインすれば自分だけのアンケートレースを作成・管理できます',
         btnGuestLogin: '🔑 ログイン / 登録',
         btnGuestTryDemo: '🚀 公式デモコースを遊ぶ',
         emptySurveys: 'アンケートがありません。最初のコースを作成してみましょう！',
@@ -484,9 +484,9 @@
         registerTitle: 'パーティーに参加：アカウント登録',
         registerDesc: 'クリエイターアカウントを無料作成し、オリジナルゲームを作成',
         username: 'ユーザー名',
-        usernamePlaceholder: 'ユーザー名を入力 (例: admin)',
+        usernamePlaceholder: 'ユーザー名を入力 (例: hello)',
         password: 'パスワード',
-        passwordPlaceholder: 'パスワードを入力 (例: 123456)',
+        passwordPlaceholder: 'パスワードを入力 (例: 43442323)',
         nickname: 'ニックネーム',
         nicknamePlaceholder: '例: フライングエッグ',
         btnSubmitLogin: '🚀 ログインする',
@@ -496,7 +496,7 @@
         loginSuccess: 'ログインに成功しました！おかえりなさい、{name}さん！🐣',
         registerSuccess: '登録が完了しました！自動ログインしました。',
         requireFields: 'ユーザー名とパスワードを入力してください',
-        adminHint: '💡 ヒント: 初期管理者アカウント admin、パスワード 123456'
+        adminHint: '💡 ヒント'
       },
       editor: {
         pageTitleNew: '✨ 新規アンケートレース作成',
@@ -667,7 +667,7 @@
         btnNewSurvey: '➕ New Survey',
         btnLoginToManage: '🔑 Login to Manage',
         guestBannerTitle: 'Instant play without login! Explore latest community survey races 🎮',
-        guestBannerDesc: 'Every questionnaire is a 3D obstacle runner. Log in to create and manage your own races (Default admin: admin / password: 123456)',
+        guestBannerDesc: 'Every questionnaire is a 3D obstacle runner. Log in to create and manage your own races ',
         btnGuestLogin: '🔑 Login / Register',
         btnGuestTryDemo: '🚀 Play Demo Level',
         emptySurveys: 'No surveys yet. Start by building your first Eggboy racetrack!',
@@ -697,9 +697,9 @@
         registerTitle: 'Join the Party: Create Account',
         registerDesc: 'Register as an Eggboy creator and design your gamified surveys',
         username: 'Username',
-        usernamePlaceholder: 'Enter username (e.g. admin)',
+        usernamePlaceholder: 'Enter username (e.g. hello)',
         password: 'Password',
-        passwordPlaceholder: 'Enter password (e.g. 123456)',
+        passwordPlaceholder: 'Enter password (e.g. 323232323)',
         nickname: 'Eggboy Nickname',
         nicknamePlaceholder: 'e.g. Flying Sweet Egg',
         btnSubmitLogin: '🚀 Log In',
@@ -709,7 +709,7 @@
         loginSuccess: 'Login successful! Welcome back, {name}! 🐣',
         registerSuccess: 'Registration successful! Automatically logged in.',
         requireFields: 'Username and password cannot be empty',
-        adminHint: '💡 Tip: Default built-in admin account: admin / password: 123456'
+        adminHint: '💡 Tip'
       },
       editor: {
         pageTitleNew: '✨ Create New Eggboy Survey',
