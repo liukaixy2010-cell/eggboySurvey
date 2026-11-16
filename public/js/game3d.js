@@ -1,7 +1,7 @@
 import * as THREE from '/vendor/three/three.module.js';
 
 /**
- * 3D Eggboy Party Game Engine (蛋仔派对 3D 闯关引擎)
+ * 3D Eggboy Party Game Engine (3D 闯关引擎)
  * Handles Three.js 3D world, bouncy physics, procedural animations, level generation, and obstacle interactions
  */
 export class EggPartyGame {
