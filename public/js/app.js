@@ -1573,7 +1573,7 @@ class App {
     });
   }
 
-  // ================= VIEW: 3D PLAY GAME ARENA (蛋仔派对 闯关游戏) =================
+  // ================= VIEW: 3D PLAY GAME ARENA ( 闯关游戏) =================
   async renderPlayView(shareCode) {
     this.currentView = 'play';
     const mainContainer = document.getElementById('app-root');
